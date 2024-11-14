@@ -7,8 +7,8 @@ I'm an amateur full-stack developer, and an expert in Node.js. I'm a back-end en
   <img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api/?username=BrianWalczak&theme=dark&show_icons=true&border_radius=11" height=160 />
 
   <br><a href="https://brianw.zip">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=discord,js,html,css,nodejs,py,arduino,bash,vscode,docker,blender,cloudflare" height=50 /><br>
-    <img alt="Adobe Software" src="https://skillicons.dev/icons?i=ai,ps,pr" height=50 />
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=discord,js,html,css,nodejs,py,arduino,bash,vscode,docker,blender,cloudflare" height=45 /><br>
+    <img alt="Adobe Software" src="https://skillicons.dev/icons?i=ai,ps,pr" height=45 />
   </a>
 </div>
 
