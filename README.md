@@ -3,8 +3,8 @@ I'm an amateur full-stack developer, and an expert in Node.js. I'm a back-end en
 
 <br><br>
 <div align="center">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianWalczak&layout=compact&theme=dark&border_radius=11" height=160 />
-  <img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api/?username=BrianWalczak&theme=dark&show_icons=true&border_radius=11" height=160 />
+  <a href="https://github.com/BrianWalczak?tab=repositories"><img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrianWalczak&layout=compact&theme=dark&border_radius=11" height=160 />
+  <img alt="Github Statistics" src="https://github-readme-stats.vercel.app/api/?username=BrianWalczak&theme=dark&show_icons=true&border_radius=11" height=160 /></a>
 
   <br><a href="https://brianw.zip">
     <img alt="My Skills" src="https://skillicons.dev/icons?i=discord,js,html,css,nodejs,py,arduino,bash,vscode,docker,blender,cloudflare" height=45 /><br>
