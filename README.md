@@ -19,6 +19,7 @@ I'm a student and full-stack developer with 5+ years of experience, specializing
   
   <a href="https://github.com/BrianWalczak/Bitwarden-Auto-Backup-Manager"><img alt="Bitwarden Auto-Backup Manager" src="https://github-readme-stats.vercel.app/api/pin/?username=BrianWalczak&repo=Bitwarden-Auto-Backup-Manager" height=135 /></a>
   <a href="https://github.com/BrianWalczak/BKFZ-SubGHz"><img alt="BKFZ SubGHz" src="https://github-readme-stats.vercel.app/api/pin/?username=BrianWalczak&repo=BKFZ-SubGHz" height=135 /></a>
+  <a href="https://github.com/BrianWalczak/TimerBot"><img alt="Timer Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=BrianWalczak&repo=TimerBot" height=135 /></a>
   <a href="https://github.com/BrianWalczak/GoogleTakeoutParser"><img alt="Google Takeout Parser" src="https://github-readme-stats.vercel.app/api/pin/?username=BrianWalczak&repo=GoogleTakeoutParser" height=135 /></a>
 </div>
 
